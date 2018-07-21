@@ -5,12 +5,13 @@ Algorithm enlisted imitates the 'Sliding Window ARQ' paradigm, coded in Java, ex
 The project itself is designed to run in two separate command prompts; one runs the Server (receiver) and one runs the Client (sender).
 
 
-Step 1) Type things into Client
-Step 2) Hit Enter key
-Step 3) ????
-Step 4) Profit!
+Step 1) Type things into Client  
+Step 2) Hit Enter key  
+Step 3) ????  
+Step 4) Profit!    
 
 
+  
 -(How to run for begineers)-
 
 1.) Open two command prompts and enter this into each: "path = C:\Program Files\Java\jdk1.8.0_101\bin" in both (or whatever directory path your Java\jdk folder is in; the one supplied here is just the current default for most). 
