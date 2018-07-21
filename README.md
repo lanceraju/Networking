@@ -1,6 +1,6 @@
-"# Networking" 
-Algorithm enlisted imitates the 'Sliding Window ARQ' paradigm, coded in Java, executable via CLI. Output is kinda messy, but the structure is pretty neat.
-
+"# Networking"   
+Algorithm enlisted imitates the 'Sliding Window ARQ' paradigm, coded in Java, executable via CLI. Output is kinda messy, but the structure is pretty neat.  
+  
 
 The project itself is designed to run in two separate command prompts; one runs the Server (receiver) and one runs the Client (sender).
 
