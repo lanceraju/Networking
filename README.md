@@ -14,7 +14,7 @@ Step 4) Profit!
   
 -(How to run for beginners)-
 
-1.) Open two command prompts and enter this into each: "path = C:\Program Files\Java\jdk1.8.0_101\bin" in both (or whatever directory path your Java\jdk folder is in; the one supplied here is just the current default for most). This allows the 'javac' and 'java' command in steps 3 and 5 to work. 
+1.) Open two command prompts and enter this into each: "path = C:\Program Files\Java\jdk1.8.0_101\bin" in both (or whatever directory path your Java\jdk folder is in; the one supplied here is just the current default for most). This allows the 'javac' and 'java' command in steps 3 and 4 to work. 
 
 2.) Change the directory by running "cd C:\folder-you-put-the-java-files-in" 
 
