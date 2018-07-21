@@ -12,7 +12,7 @@ Step 4) Profit!
 
 
   
--(How to run for begineers)-
+-(How to run for beginners)-
 
 1.) Open two command prompts and enter this into each: "path = C:\Program Files\Java\jdk1.8.0_101\bin" in both (or whatever directory path your Java\jdk folder is in; the one supplied here is just the current default for most). 
 
